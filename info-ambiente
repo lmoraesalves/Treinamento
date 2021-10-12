@@ -1,0 +1,21 @@
+Master
+
+	ssh -i lucask8s.pem ubuntu@54.207.130.154
+
+Clusters
+	
+	ssh -i lucask8s.pem ubuntu@18.228.7.111
+	ssh -i lucask8s.pem ubuntu@52.67.61.51
+	ssh -i lucask8s.pem ubuntu@54.232.12.243
+	
+Docker hub
+	
+	lmoraesalves
+	Lukinhas#08
+
+VPC
+	
+	k8s-lucas vpc-0533bd0923edb3643
+	
+
+

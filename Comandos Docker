@@ -1,0 +1,5 @@
+Remover todos containers
+
+	docker rm -f $(docker ps -a -q)
+	
+
